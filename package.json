@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "这是我学习webpack打包机",
   "main": "index.js",
-  "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^6.5.3",
     "babel-core": "^6.18.2",
